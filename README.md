@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YData_ai)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ydata966)
 [![Data-Centric AI](https://img.shields.io/badge/Dev%20Community-DCAI-12100E?style=for-the-badge&logoColor=white)](https://datacentricai.community)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mw7xjJ7b7s)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg.mw7xjJ7b7s)
 [![YData Profiling](https://img.shields.io/badge/ydata%20profiling-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ydataai/ydata-profiling)
 [![YData Synthetic](https://img.shields.io/badge/ydata%20synthetic-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ydataai/ydata-synthetic)
 [![YData Academy](https://img.shields.io/badge/YData%20Academy-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://github.com/ydataai/academy)
