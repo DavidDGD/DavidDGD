@@ -50,4 +50,4 @@ You can also find all about our montly events and data initiatives on our [newsl
 
 -->
 ![](https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif)
-<img src="[https://github.com/favicon.ico](https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif)https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" align="left" height="48" width="48" >
+<img src="[https://github.com/favicon.ico](https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif)https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" align="left" height="480" width="480" >
