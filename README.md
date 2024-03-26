@@ -49,3 +49,4 @@ You can also find all about our montly events and data initiatives on our [newsl
 ![footer_ydata](https://assets.ydata.ai/dcai/footer.png)
 
 -->
+![](https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif)
