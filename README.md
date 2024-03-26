@@ -51,5 +51,5 @@ You can also find all about our montly events and data initiatives on our [newsl
 -->
 ![](https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif width="250" height="250")
 <img src="[https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif]]https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" align="left" height="480" width="480" />
-<img src="[https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif] width="250" height="250"/>
+<img src="https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" width="250" height="250"/>
 
