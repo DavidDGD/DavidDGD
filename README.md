@@ -1,4 +1,6 @@
-### Hi there 👋
+### <img src="https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" align="left" width="250" height="250"/>
+
+Hi there 👋
 
 <!--
 **DavidDGD/DavidDGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
