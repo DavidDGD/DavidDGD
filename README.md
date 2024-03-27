@@ -1,6 +1,6 @@
 <p align="left"><img width="300" src="https://github.com/DavidDGD/DavidDGD/blob/main/logo_orange_penrose_delta_t.jpeg" alt="Delta t Logo"></p>
 <p align="center"><img width="300" src="https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" alt="Squared Triangle GIF"></p>
-
+<img src="https://github.com/DavidDGD/DavidDGD/blob/main/logo_orange_penrose_delta_t.jpeg" align="left" width="480" />
   
 # Hi there, I'm David 👋
 ## What  Synthetic Data?
