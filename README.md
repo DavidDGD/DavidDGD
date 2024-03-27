@@ -1,6 +1,14 @@
-### <img src="https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" align="left" width="250" height="250"/>
+<p align="center"><img width="300" src="https://github.com/DavidDGD/DavidDGD/blob/main/logo_orange_penrose_delta_t.jpeg" alt="Delta t Logo"></p>
+<p align="center"><img width="300" src="https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" alt="Squared Triangle GIF"></p>
 
-Hi there 👋
+  
+# Hi there, I'm David 👋
+## What  Synthetic Data?
+Currently working on:
+  - Master Thesis about handling Abrupt Drift under Time Series Forecasting [soon to be: Thesis PDF link](https://overleaf.com)
+  - Building Streamlit Website to showcase trade-off of data and model complexity for handling Time Series Drift [soon to be: Streamlit web link](https://streamlit.com)
+  - [IMC Forecasting Competition](https://imc-prosperity.notion.site/Prosperity-2-Wiki-fe650c0292ae4cdb94714a3f5aa74c85)
+
 
 <!--
 **DavidDGD/DavidDGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,5 +62,5 @@ You can also find all about our montly events and data initiatives on our [newsl
 ![](https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif align="left" width="350" height="350")
 <img src="[https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif]]https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" align="left" height="480" width="480" />
 -->
-<img src="https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" align="left" width="250" height="250"/>
+<img src="https://github.com/DavidDGD/DavidDGD/blob/main/ezgif.com-speed.gif" align="left" width="350" height="350"/>
 
