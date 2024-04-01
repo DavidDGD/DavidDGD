@@ -3,10 +3,10 @@
 
   
 # Hi there, I'm David 👋
-## What  Synthetic Data?
+## On what am I working at the moment?
 Currently working on:
-  - Master Thesis about handling Abrupt Drift under Time Series Forecasting [soon to be: Thesis PDF link](https://overleaf.com)
-  - Building Streamlit Website to showcase trade-off of data and model complexity for handling Time Series Drift [soon to be: Streamlit web link](https://streamlit.com)
+  - Master Thesis about handling Abrupt Drift under Time Series Forecasting [coming soon: Thesis PDF link](https://overleaf.com)
+  - Building Streamlit Website to showcase trade-off of data and model complexity for handling Time Series Drift [coming soon: Streamlit web link](https://streamlit.com)
   - [IMC Forecasting Competition](https://imc-prosperity.notion.site/Prosperity-2-Wiki-fe650c0292ae4cdb94714a3f5aa74c85)
 
 
