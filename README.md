@@ -1,4 +1,5 @@
-<p align="left"><img height="300" width="350" src="https://github.com/DavidDGD/DavidDGD/blob/main/logo_orange_penrose_delta_t.jpeg" alt="Delta t Logo"> <img height="300" width="350" src="https://github.com/DavidDGD/DavidDGD/blob/main/gif_squared_triangles_vBorders.gif" alt="Squared Triangle GIF"></p>
+<p align="left"><img height="300" width="350" src="https://github.com/DavidDGD/DavidDGD/blob/main/logo_orange_penrose_delta_t.jpeg" alt="Delta t Logo"> 
+<!--   <img height="300" width="350" src="https://github.com/DavidDGD/DavidDGD/blob/main/gif_squared_triangles_vBorders.gif" alt="Squared Triangle GIF"></p> -->
 
 
   
