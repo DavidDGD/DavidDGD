@@ -2,7 +2,7 @@
 <!--   <img height="300" width="350" src="https://github.com/DavidDGD/DavidDGD/blob/main/gif_squared_triangles_vBorders.gif" alt="Squared Triangle GIF"></p> -->
 
 
-  
+  <!--
 # Hi there, I'm David 👋
 ## On what am I working at the moment?
 Currently working on:
